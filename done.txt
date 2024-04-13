@@ -279,3 +279,6 @@ Random Flip Matrix
 Intersection of Multiple Arrays
 Flood Fill
 Break a Palindrome
+Maximum Average Subarray I
+Decrypt String from Alphabet to Integer Mapping
+Minimum Number of Operations to Make X and Y Equal
