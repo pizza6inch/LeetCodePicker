@@ -282,3 +282,6 @@ Break a Palindrome
 Maximum Average Subarray I
 Decrypt String from Alphabet to Integer Mapping
 Minimum Number of Operations to Make X and Y Equal
+Maximize Sum Of Array After K Negations
+Check if Strings Can be Made Equal With Operations I
+Maximum Length of Subarray With Positive Product
