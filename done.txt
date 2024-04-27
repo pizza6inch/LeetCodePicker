@@ -285,3 +285,6 @@ Minimum Number of Operations to Make X and Y Equal
 Maximize Sum Of Array After K Negations
 Check if Strings Can be Made Equal With Operations I
 Maximum Length of Subarray With Positive Product
+Island Perimeter
+Number of Senior Citizens
+Longest Substring with At Least K Repeating Characters
