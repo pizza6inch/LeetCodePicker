@@ -294,3 +294,6 @@ Finding the Users Active Minutes
 Base 7
 Minimum Changes To Make Alternating Binary String
 Time Needed to Rearrange a Binary String
+Increasing Order Search Tree
+Split the Array
+Hand of Straights
