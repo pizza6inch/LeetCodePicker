@@ -297,3 +297,6 @@ Time Needed to Rearrange a Binary String
 Increasing Order Search Tree
 Split the Array
 Hand of Straights
+Longest Even Odd Subarray With Threshold
+Longest Palindrome
+Minimum Impossible OR
