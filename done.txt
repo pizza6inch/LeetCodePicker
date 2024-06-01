@@ -300,3 +300,6 @@ Hand of Straights
 Longest Even Odd Subarray With Threshold
 Longest Palindrome
 Minimum Impossible OR
+Make Array Zero by Subtracting Equal Amounts
+Element Appearing More Than 25% In Sorted Array
+Design Underground System
