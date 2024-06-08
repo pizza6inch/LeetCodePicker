@@ -303,3 +303,6 @@ Minimum Impossible OR
 Make Array Zero by Subtracting Equal Amounts
 Element Appearing More Than 25% In Sorted Array
 Design Underground System
+Count the Number of Incremovable Subarrays I
+Maximum Number of Words You Can Type
+Longest Palindromic Subsequence
