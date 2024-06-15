@@ -306,3 +306,6 @@ Design Underground System
 Count the Number of Incremovable Subarrays I
 Maximum Number of Words You Can Type
 Longest Palindromic Subsequence
+Minimum String Length After Removing Substrings
+Largest Perimeter Triangle
+Custom Sort String
