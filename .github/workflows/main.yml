@@ -4,7 +4,7 @@ name: main
 
 on:
   schedule:
-    - cron: "00 13 * * 6"
+    - cron: "0 18 * * *" # 每天 18:00 執行
   workflow_dispatch:
 
 jobs:
