@@ -1,0 +1,4 @@
+
+Count Number of Pairs With Absolute Difference K
+Maximum Number of Operations With the Same Score I
+Predict the Winner
