@@ -8,3 +8,6 @@ Removing Stars From a String
 Categorize Box According to Criteria
 Construct the Rectangle
 Path Sum III
+Water Bottles
+Count Odd Numbers in an Interval Range
+Flip String to Monotone Increasing
