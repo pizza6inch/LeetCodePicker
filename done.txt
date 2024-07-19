@@ -11,3 +11,6 @@ Path Sum III
 Water Bottles
 Count Odd Numbers in an Interval Range
 Flip String to Monotone Increasing
+Reformat Date
+Difference Between Element Sum and Digit Sum of an Array
+Out of Boundary Paths
