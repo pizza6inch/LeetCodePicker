@@ -14,3 +14,6 @@ Flip String to Monotone Increasing
 Reformat Date
 Difference Between Element Sum and Digit Sum of an Array
 Out of Boundary Paths
+Sort Array By Parity II
+Maximum Difference by Remapping a Digit
+Minimum Operations to Make a Special Number
