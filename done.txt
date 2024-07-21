@@ -17,3 +17,6 @@ Out of Boundary Paths
 Sort Array By Parity II
 Maximum Difference by Remapping a Digit
 Minimum Operations to Make a Special Number
+Design HashMap
+Latest Time You Can Obtain After Replacing Characters
+Number of Good Ways to Split a String
