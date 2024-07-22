@@ -20,3 +20,6 @@ Minimum Operations to Make a Special Number
 Design HashMap
 Latest Time You Can Obtain After Replacing Characters
 Number of Good Ways to Split a String
+Final Prices With a Special Discount in a Shop
+Remove Digit From Number to Maximize Result
+Longest Uploaded Prefix
