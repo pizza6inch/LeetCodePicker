@@ -23,3 +23,6 @@ Number of Good Ways to Split a String
 Final Prices With a Special Discount in a Shop
 Remove Digit From Number to Maximize Result
 Longest Uploaded Prefix
+Maximum Number of Balloons
+Find Missing and Repeated Values
+Largest Magic Square
