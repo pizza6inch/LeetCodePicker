@@ -26,3 +26,6 @@ Longest Uploaded Prefix
 Maximum Number of Balloons
 Find Missing and Repeated Values
 Largest Magic Square
+Make a Square with the Same Color
+Defanging an IP Address
+Spiral Matrix III
