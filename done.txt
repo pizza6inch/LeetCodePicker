@@ -29,3 +29,6 @@ Largest Magic Square
 Make a Square with the Same Color
 Defanging an IP Address
 Spiral Matrix III
+Valid Mountain Array
+Find All K-Distant Indices in an Array
+Maximum Product of the Length of Two Palindromic Subsequences
