@@ -32,3 +32,6 @@ Spiral Matrix III
 Valid Mountain Array
 Find All K-Distant Indices in an Array
 Maximum Product of the Length of Two Palindromic Subsequences
+Sum of Root To Leaf Binary Numbers
+Shortest Subarray With OR at Least K I
+My Calendar I
