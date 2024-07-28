@@ -38,3 +38,6 @@ My Calendar I
 Isomorphic Strings
 Count Pairs That Form a Complete Day I
 Find if Array Can Be Sorted
+XOR Operation in an Array
+  Count Symmetric Integers
+Operations on Tree
