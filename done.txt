@@ -41,3 +41,6 @@ Find if Array Can Be Sorted
 XOR Operation in an Array
   Count Symmetric Integers
 Operations on Tree
+Mean of Array After Removing Some Elements
+Relative Ranks
+Maximum Total Importance of Roads
