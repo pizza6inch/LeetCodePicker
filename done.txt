@@ -44,3 +44,6 @@ Operations on Tree
 Mean of Array After Removing Some Elements
 Relative Ranks
 Maximum Total Importance of Roads
+Neither Minimum nor Maximum
+Longest Nice Substring
+Minimum Deletions to Make String Balanced
