@@ -47,3 +47,6 @@ Maximum Total Importance of Roads
 Neither Minimum nor Maximum
 Longest Nice Substring
 Minimum Deletions to Make String Balanced
+Valid Perfect Square
+Minimum Sum of Four Digit Number After Splitting Digits
+Game of Life
