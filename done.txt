@@ -53,3 +53,6 @@ Game of Life
 Average Value of Even Numbers That Are Divisible by Three
 Find Nearest Point That Has the Same X or Y Coordinate
 Maximum Swap
+Occurrences After Bigram
+Minimum Amount of Time to Fill Cups
+Find Champion II
