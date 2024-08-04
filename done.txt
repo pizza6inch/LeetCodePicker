@@ -56,3 +56,6 @@ Maximum Swap
 Occurrences After Bigram
 Minimum Amount of Time to Fill Cups
 Find Champion II
+Add Binary
+Count Elements With Strictly Smaller and Greater Elements 
+Maximum Good Subarray Sum
