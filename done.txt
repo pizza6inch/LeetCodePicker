@@ -59,3 +59,6 @@ Find Champion II
 Add Binary
 Count Elements With Strictly Smaller and Greater Elements 
 Maximum Good Subarray Sum
+Determine if Two Events Have Conflict
+Detect Pattern of Length M Repeated K or More Times
+Step-By-Step Directions From a Binary Tree Node to Another
