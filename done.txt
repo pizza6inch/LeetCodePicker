@@ -65,3 +65,6 @@ Step-By-Step Directions From a Binary Tree Node to Another
 Largest Substring Between Two Equal Characters
 Check if Strings Can be Made Equal With Operations I
 Maximal Square
+Search in a Binary Search Tree
+Matrix Cells in Distance Order
+Minimum Length of Anagram Concatenation
