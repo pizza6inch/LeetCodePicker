@@ -68,3 +68,6 @@ Maximal Square
 Search in a Binary Search Tree
 Matrix Cells in Distance Order
 Minimum Length of Anagram Concatenation
+Reformat The String
+Find the Number of Good Pairs I
+Pairs of Songs With Total Durations Divisible by 60
