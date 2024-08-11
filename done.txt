@@ -1,3 +1,5 @@
 
 Number of Strings That Appear as Substrings in Word
 Largest Magic Square
+Find the Winning Player in Coin Game
+Binary Subarrays With Sum
