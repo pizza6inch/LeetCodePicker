@@ -5,3 +5,5 @@ Find the Winning Player in Coin Game
 Binary Subarrays With Sum
 Subarrays Distinct Element Sum of Squares I
 Find Kth Bit in Nth Binary String
+Convert a Number to Hexadecimal
+Find the Number of Good Pairs II
