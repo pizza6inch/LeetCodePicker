@@ -7,3 +7,5 @@ Subarrays Distinct Element Sum of Squares I
 Find Kth Bit in Nth Binary String
 Convert a Number to Hexadecimal
 Find the Number of Good Pairs II
+Valid Anagram
+Hand of Straights
