@@ -9,3 +9,5 @@ Convert a Number to Hexadecimal
 Find the Number of Good Pairs II
 Valid Anagram
 Hand of Straights
+Find Champion I
+Maximum Side Length of a Square with Sum Less than or Equal to Threshold
