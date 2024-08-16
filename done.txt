@@ -11,3 +11,5 @@ Valid Anagram
 Hand of Straights
 Find Champion I
 Maximum Side Length of a Square with Sum Less than or Equal to Threshold
+Reverse Vowels of a String
+Keys and Rooms
