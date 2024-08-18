@@ -15,3 +15,5 @@ Reverse Vowels of a String
 Keys and Rooms
 Repeated Substring Pattern
 Split Array into Consecutive Subsequences
+Reverse Only Letters
+Count Artifacts That Can Be Extracted
