@@ -21,3 +21,5 @@ Buddy Strings
 Walking Robot Simulation
 Apple Redistribution into Boxes
 Count Zero Request Servers
+Prime Number of Set Bits in Binary Representation
+Shortest Subarray With OR at Least K II
