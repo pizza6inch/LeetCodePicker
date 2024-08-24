@@ -27,3 +27,5 @@ Fizz Buzz
 Count the Number of Houses at a Certain Distance I
 Binary Tree Preorder Traversal
 Fraction Addition and Subtraction
+Build Array from Permutation
+All Elements in Two Binary Search Trees
