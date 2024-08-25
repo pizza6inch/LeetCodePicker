@@ -29,3 +29,5 @@ Binary Tree Preorder Traversal
 Fraction Addition and Subtraction
 Build Array from Permutation
 All Elements in Two Binary Search Trees
+Kids With the Greatest Number of Candies
+Single Element in a Sorted Array
