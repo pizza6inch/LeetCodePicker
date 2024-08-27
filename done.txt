@@ -33,3 +33,5 @@ Kids With the Greatest Number of Candies
 Single Element in a Sorted Array
 Matrix Cells in Distance Order
 Maximum Score From Removing Substrings
+Longer Contiguous Segments of Ones than Zeros
+Take K of Each Character From Left and Right
