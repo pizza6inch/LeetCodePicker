@@ -37,3 +37,5 @@ Longer Contiguous Segments of Ones than Zeros
 Take K of Each Character From Left and Right
 Find the XOR of Numbers Which Appear Twice
 Shortest Path with Alternating Colors
+Find Center of Star Graph
+Count Unreachable Pairs of Nodes in an Undirected Graph
