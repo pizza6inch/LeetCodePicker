@@ -41,3 +41,5 @@ Find Center of Star Graph
 Count Unreachable Pairs of Nodes in an Undirected Graph
 Min Max Game
 Number of Zero-Filled Subarrays
+Alternating Groups I
+Flip String to Monotone Increasing
