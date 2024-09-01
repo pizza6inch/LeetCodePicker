@@ -43,3 +43,5 @@ Min Max Game
 Number of Zero-Filled Subarrays
 Alternating Groups I
 Flip String to Monotone Increasing
+Three Consecutive Odds
+Seat Reservation Manager
