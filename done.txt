@@ -45,3 +45,5 @@ Alternating Groups I
 Flip String to Monotone Increasing
 Three Consecutive Odds
 Seat Reservation Manager
+Maximum Difference Between Increasing Elements
+Recover Binary Search Tree
