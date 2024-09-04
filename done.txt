@@ -49,3 +49,5 @@ Maximum Difference Between Increasing Elements
 Recover Binary Search Tree
 Find the Key of the Numbers
 Length of Longest Fibonacci Subsequence
+Summary Ranges
+Minimum Domino Rotations For Equal Row
