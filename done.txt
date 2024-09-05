@@ -51,3 +51,5 @@ Find the Key of the Numbers
 Length of Longest Fibonacci Subsequence
 Summary Ranges
 Minimum Domino Rotations For Equal Row
+Count Prefix and Suffix Pairs I
+Minimum Time to Make Rope Colorful
