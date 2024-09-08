@@ -57,3 +57,5 @@ Ant on the Boundary
 Maximum Sum Circular Subarray
 Add Strings
 Minimum Moves to Equal Array Elements II
+Longest Common Prefix
+Path with Maximum Probability
