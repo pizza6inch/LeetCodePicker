@@ -63,3 +63,5 @@ Same Tree
 Generate Binary Strings Without Adjacent Zeros
 Maximum Product of Three Numbers
 Flip Equivalent Binary Trees
+Defuse the Bomb
+Random Pick with Weight
