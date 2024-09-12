@@ -65,3 +65,5 @@ Maximum Product of Three Numbers
 Flip Equivalent Binary Trees
 Defuse the Bomb
 Random Pick with Weight
+Implement Stack using Queues
+All Paths From Source to Target
