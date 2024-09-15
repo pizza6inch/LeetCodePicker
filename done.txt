@@ -71,3 +71,5 @@ Largest Substring Between Two Equal Characters
 Removing Stars From a String
 Unique Number of Occurrences
 Movement of Robots
+Flipping an Image
+Equal Row and Column Pairs
