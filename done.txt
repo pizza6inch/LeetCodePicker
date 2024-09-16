@@ -73,3 +73,5 @@ Unique Number of Occurrences
 Movement of Robots
 Flipping an Image
 Equal Row and Column Pairs
+Maximum Product of Two Elements in an Array
+Removing Minimum Number of Magic Beans
