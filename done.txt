@@ -75,3 +75,5 @@ Flipping an Image
 Equal Row and Column Pairs
 Maximum Product of Two Elements in an Array
 Removing Minimum Number of Magic Beans
+Left and Right Sum Differences
+Sum of Numbers With Units Digit K
