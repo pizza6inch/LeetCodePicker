@@ -77,3 +77,5 @@ Maximum Product of Two Elements in an Array
 Removing Minimum Number of Magic Beans
 Left and Right Sum Differences
 Sum of Numbers With Units Digit K
+Maximum Sum With Exactly K Elements 
+Online Stock Span
