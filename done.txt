@@ -79,3 +79,5 @@ Left and Right Sum Differences
 Sum of Numbers With Units Digit K
 Maximum Sum With Exactly K Elements 
 Online Stock Span
+Minimum Number of Chairs in a Waiting Room
+Find the Substring With Maximum Cost
