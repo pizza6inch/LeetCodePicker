@@ -81,3 +81,5 @@ Maximum Sum With Exactly K Elements
 Online Stock Span
 Minimum Number of Chairs in a Waiting Room
 Find the Substring With Maximum Cost
+Sort Array By Parity
+Word Subsets
