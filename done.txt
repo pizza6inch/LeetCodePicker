@@ -83,3 +83,5 @@ Minimum Number of Chairs in a Waiting Room
 Find the Substring With Maximum Cost
 Sort Array By Parity
 Word Subsets
+Longest Nice Substring
+Smallest Value After Replacing With Sum of Prime Factors
