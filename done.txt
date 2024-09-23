@@ -87,3 +87,5 @@ Longest Nice Substring
 Smallest Value After Replacing With Sum of Prime Factors
 A Number After a Double Reversal
 Shortest String That Contains Three Strings
+Maximize Sum Of Array After K Negations
+Find and Replace Pattern
