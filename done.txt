@@ -91,3 +91,5 @@ Maximize Sum Of Array After K Negations
 Find and Replace Pattern
 Remove Duplicates from Sorted List
 Number of People Aware of a Secret
+Number of Changing Keys
+Super Ugly Number
