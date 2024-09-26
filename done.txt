@@ -93,3 +93,5 @@ Remove Duplicates from Sorted List
 Number of People Aware of a Secret
 Number of Changing Keys
 Super Ugly Number
+Two Sum IV - Input is a BST
+Delete Columns to Make Sorted II
