@@ -95,3 +95,5 @@ Number of Changing Keys
 Super Ugly Number
 Two Sum IV - Input is a BST
 Delete Columns to Make Sorted II
+Maximum Repeating Substring
+Knight Probability in Chessboard
