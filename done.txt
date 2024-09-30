@@ -101,3 +101,5 @@ Merge Two Binary Trees
 Maximum Number of Non-Overlapping Subarrays With Sum Equals Target
 Number Of Rectangles That Can Form The Largest Square
 Count Primes
+Number of 1 Bits
+Maximize Number of Subsequences in a String
