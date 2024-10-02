@@ -105,3 +105,5 @@ Number of 1 Bits
 Maximize Number of Subsequences in a String
 Distance Between Bus Stops
 Minimum Jumps to Reach Home
+Check Distances Between Same Letters
+Sum of Matrix After Queries
