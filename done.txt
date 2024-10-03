@@ -107,3 +107,5 @@ Distance Between Bus Stops
 Minimum Jumps to Reach Home
 Check Distances Between Same Letters
 Sum of Matrix After Queries
+Decode XORed Array
+Count Good Numbers
