@@ -109,3 +109,5 @@ Check Distances Between Same Letters
 Sum of Matrix After Queries
 Decode XORed Array
 Count Good Numbers
+Destination City
+Reach a Number
