@@ -113,3 +113,5 @@ Destination City
 Reach a Number
 Maximum Ascending Subarray Sum
 Count the Number of Fair Pairs
+X of a Kind in a Deck of Cards
+Add Minimum Number of Rungs
