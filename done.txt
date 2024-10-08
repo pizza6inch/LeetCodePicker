@@ -117,3 +117,5 @@ X of a Kind in a Deck of Cards
 Add Minimum Number of Rungs
 Ugly Number
 Maximum Alternating Subsequence Sum
+Merge Sorted Array
+Time Needed to Inform All Employees
