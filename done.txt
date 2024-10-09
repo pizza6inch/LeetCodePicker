@@ -119,3 +119,5 @@ Ugly Number
 Maximum Alternating Subsequence Sum
 Merge Sorted Array
 Time Needed to Inform All Employees
+Longest Palindrome
+Valid Sudoku
