@@ -123,3 +123,5 @@ Longest Palindrome
 Valid Sudoku
 Check if All Characters Have Equal Number of Occurrences
 Longest Palindrome by Concatenating Two Letter Words
+Valid Word
+Range Frequency Queries
