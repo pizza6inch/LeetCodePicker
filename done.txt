@@ -125,3 +125,5 @@ Check if All Characters Have Equal Number of Occurrences
 Longest Palindrome by Concatenating Two Letter Words
 Valid Word
 Range Frequency Queries
+Is Subsequence
+Minimum Number of Operations to Make Array XOR Equal to K
