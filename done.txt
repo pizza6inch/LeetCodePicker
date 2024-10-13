@@ -127,3 +127,5 @@ Valid Word
 Range Frequency Queries
 Is Subsequence
 Minimum Number of Operations to Make Array XOR Equal to K
+Robot Return to Origin
+Peak Index in a Mountain Array
