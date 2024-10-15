@@ -131,3 +131,5 @@ Robot Return to Origin
 Peak Index in a Mountain Array
 Number of Equivalent Domino Pairs
 Count Number of Maximum Bitwise-OR Subsets
+Determine Color of a Chessboard Square
+Water and Jug Problem
