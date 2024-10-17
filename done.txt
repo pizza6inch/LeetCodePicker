@@ -135,3 +135,5 @@ Determine Color of a Chessboard Square
 Water and Jug Problem
 Available Captures for Rook
 Count the Number of Good Subarrays
+Relative Sort Array
+Insertion Sort List
