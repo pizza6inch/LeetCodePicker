@@ -137,3 +137,5 @@ Available Captures for Rook
 Count the Number of Good Subarrays
 Relative Sort Array
 Insertion Sort List
+Arranging Coins
+Longest Substring with At Least K Repeating Characters
