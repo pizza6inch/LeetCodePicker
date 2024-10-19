@@ -139,3 +139,5 @@ Relative Sort Array
 Insertion Sort List
 Arranging Coins
 Longest Substring with At Least K Repeating Characters
+Score of a String
+Shortest Distance After Road Addition Queries I
