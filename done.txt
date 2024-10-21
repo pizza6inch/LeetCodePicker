@@ -143,3 +143,5 @@ Score of a String
 Shortest Distance After Road Addition Queries I
 Special Array With X Elements Greater Than or Equal X
 Maximum Points in an Archery Competition
+Find Words That Can Be Formed by Characters
+Number of Steps to Reduce a Number in Binary Representation to One
