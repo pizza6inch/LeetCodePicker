@@ -147,3 +147,5 @@ Find Words That Can Be Formed by Characters
 Number of Steps to Reduce a Number in Binary Representation to One
 Find the Index of the First Occurrence in a String
 Count Number of Homogenous Substrings
+Sort the People
+Best Time to Buy and Sell Stock II
