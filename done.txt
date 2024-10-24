@@ -149,3 +149,5 @@ Find the Index of the First Occurrence in a String
 Count Number of Homogenous Substrings
 Sort the People
 Best Time to Buy and Sell Stock II
+Minimum Absolute Difference in BST
+Find the Number of Distinct Colors Among the Balls
