@@ -151,3 +151,5 @@ Sort the People
 Best Time to Buy and Sell Stock II
 Minimum Absolute Difference in BST
 Find the Number of Distinct Colors Among the Balls
+Contains Duplicate II
+Delete Operation for Two Strings
