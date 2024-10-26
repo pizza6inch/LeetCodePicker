@@ -153,3 +153,5 @@ Minimum Absolute Difference in BST
 Find the Number of Distinct Colors Among the Balls
 Contains Duplicate II
 Delete Operation for Two Strings
+Make Three Strings Equal
+4Sum
