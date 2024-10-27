@@ -155,3 +155,5 @@ Contains Duplicate II
 Delete Operation for Two Strings
 Make Three Strings Equal
 4Sum
+Find Mode in Binary Search Tree
+Amount of Time for Binary Tree to Be Infected
