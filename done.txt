@@ -157,3 +157,5 @@ Make Three Strings Equal
 4Sum
 Find Mode in Binary Search Tree
 Amount of Time for Binary Tree to Be Infected
+Leaf-Similar Trees
+Find the Largest Area of Square Inside Two Rectangles
