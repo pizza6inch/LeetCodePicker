@@ -161,3 +161,5 @@ Leaf-Similar Trees
 Find the Largest Area of Square Inside Two Rectangles
 Distribute Elements Into Two Arrays I
 Greatest Sum Divisible by Three
+Most Frequent Even Element
+Detect Cycles in 2D Grid
