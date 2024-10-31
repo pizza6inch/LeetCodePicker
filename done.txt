@@ -163,3 +163,5 @@ Distribute Elements Into Two Arrays I
 Greatest Sum Divisible by Three
 Most Frequent Even Element
 Detect Cycles in 2D Grid
+Design Parking System
+Determine the Minimum Sum of a k-avoiding Array
