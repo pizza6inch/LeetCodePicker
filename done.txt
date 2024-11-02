@@ -167,3 +167,5 @@ Design Parking System
 Determine the Minimum Sum of a k-avoiding Array
 Two Out of Three
 Convert to Base -2
+Maximum Number of Pairs in Array
+Domino and Tromino Tiling
