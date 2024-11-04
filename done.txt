@@ -171,3 +171,5 @@ Maximum Number of Pairs in Array
 Domino and Tromino Tiling
 Counting Bits
 Minimum Array End
+Contains Duplicate
+Remove Covered Intervals
