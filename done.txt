@@ -173,3 +173,5 @@ Counting Bits
 Minimum Array End
 Contains Duplicate
 Remove Covered Intervals
+Cells in a Range on an Excel Sheet
+Find the Minimum and Maximum Number of Nodes Between Critical Points
