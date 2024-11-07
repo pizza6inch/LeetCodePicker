@@ -177,3 +177,5 @@ Cells in a Range on an Excel Sheet
 Find the Minimum and Maximum Number of Nodes Between Critical Points
 Make The String Great
 Search a 2D Matrix II
+Goal Parser Interpretation
+Min Stack
