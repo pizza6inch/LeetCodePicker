@@ -181,3 +181,5 @@ Goal Parser Interpretation
 Min Stack
 Longest Unequal Adjacent Groups Subsequence I
 2 Keys Keyboard
+Design Neighbor Sum Service
+Maximize the Total Height of Unique Towers
