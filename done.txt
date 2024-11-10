@@ -183,3 +183,5 @@ Longest Unequal Adjacent Groups Subsequence I
 2 Keys Keyboard
 Design Neighbor Sum Service
 Maximize the Total Height of Unique Towers
+Find Greatest Common Divisor of Array
+Partition to K Equal Sum Subsets
