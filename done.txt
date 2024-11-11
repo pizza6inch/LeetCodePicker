@@ -185,3 +185,5 @@ Design Neighbor Sum Service
 Maximize the Total Height of Unique Towers
 Find Greatest Common Divisor of Array
 Partition to K Equal Sum Subsets
+Find the Sum of Encrypted Integers
+Sum of Absolute Differences in a Sorted Array
