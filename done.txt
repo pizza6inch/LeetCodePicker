@@ -191,3 +191,5 @@ Binary Number with Alternating Bits
 Maximum Bags With Full Capacity of Rocks
 Path Sum
 Maximum Number of Integers to Choose From a Range I
+Find Resultant Array After Removing Anagrams
+Check If a String Contains All Binary Codes of Size K
