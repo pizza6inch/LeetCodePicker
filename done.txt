@@ -193,3 +193,5 @@ Path Sum
 Maximum Number of Integers to Choose From a Range I
 Find Resultant Array After Removing Anagrams
 Check If a String Contains All Binary Codes of Size K
+K Items With the Maximum Sum
+Find All Anagrams in a String
