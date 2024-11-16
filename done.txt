@@ -195,3 +195,5 @@ Find Resultant Array After Removing Anagrams
 Check If a String Contains All Binary Codes of Size K
 K Items With the Maximum Sum
 Find All Anagrams in a String
+Intersection of Multiple Arrays
+Find Palindrome With Fixed Length
