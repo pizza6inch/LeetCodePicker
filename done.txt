@@ -197,3 +197,5 @@ K Items With the Maximum Sum
 Find All Anagrams in a String
 Intersection of Multiple Arrays
 Find Palindrome With Fixed Length
+Faulty Keyboard
+Image Overlap
