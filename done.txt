@@ -199,3 +199,5 @@ Intersection of Multiple Arrays
 Find Palindrome With Fixed Length
 Faulty Keyboard
 Image Overlap
+Ransom Note
+Minimum Consecutive Cards to Pick Up
