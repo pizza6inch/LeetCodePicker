@@ -201,3 +201,5 @@ Faulty Keyboard
 Image Overlap
 Ransom Note
 Minimum Consecutive Cards to Pick Up
+Find the Integer Added to Array I
+Employee Importance
