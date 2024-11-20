@@ -203,3 +203,5 @@ Ransom Note
 Minimum Consecutive Cards to Pick Up
 Find the Integer Added to Array I
 Employee Importance
+Reverse Linked List
+Minimum Operations to Exceed Threshold Value II
