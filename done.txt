@@ -205,3 +205,5 @@ Find the Integer Added to Array I
 Employee Importance
 Reverse Linked List
 Minimum Operations to Exceed Threshold Value II
+Count the Number of Special Characters I
+Partition Array for Maximum Sum
