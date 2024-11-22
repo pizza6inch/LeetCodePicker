@@ -207,3 +207,5 @@ Reverse Linked List
 Minimum Operations to Exceed Threshold Value II
 Count the Number of Special Characters I
 Partition Array for Maximum Sum
+Partition Array Into Three Parts With Equal Sum
+Find the Score of All Prefixes of an Array
