@@ -209,3 +209,5 @@ Count the Number of Special Characters I
 Partition Array for Maximum Sum
 Partition Array Into Three Parts With Equal Sum
 Find the Score of All Prefixes of an Array
+Remove Digit From Number to Maximize Result
+The kth Factor of n
