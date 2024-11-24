@@ -211,3 +211,5 @@ Partition Array Into Three Parts With Equal Sum
 Find the Score of All Prefixes of an Array
 Remove Digit From Number to Maximize Result
 The kth Factor of n
+Count Elements With Maximum Frequency
+Partition Labels
