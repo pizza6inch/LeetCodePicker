@@ -213,3 +213,5 @@ Remove Digit From Number to Maximize Result
 The kth Factor of n
 Count Elements With Maximum Frequency
 Partition Labels
+Minimum Cost of Buying Candies With Discount
+Sort the Jumbled Numbers
