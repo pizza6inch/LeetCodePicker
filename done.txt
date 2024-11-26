@@ -215,3 +215,5 @@ Count Elements With Maximum Frequency
 Partition Labels
 Minimum Cost of Buying Candies With Discount
 Sort the Jumbled Numbers
+Convert the Temperature
+Sum of Beauty in the Array
