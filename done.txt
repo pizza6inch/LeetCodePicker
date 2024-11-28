@@ -219,3 +219,5 @@ Convert the Temperature
 Sum of Beauty in the Array
 Remove Trailing Zeros From a String
 Max Area of Island
+Sum of Digits in Base K
+Stone Game VII
