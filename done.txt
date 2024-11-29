@@ -221,3 +221,5 @@ Remove Trailing Zeros From a String
 Max Area of Island
 Sum of Digits in Base K
 Stone Game VII
+Number of Different Integers in a String
+Maximum Number That Sum of the Prices Is Less Than or Equal to K
