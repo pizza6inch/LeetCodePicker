@@ -227,3 +227,5 @@ Neither Minimum nor Maximum
 Find Eventual Safe States
 Maximum Enemy Forts That Can Be Captured
 Shortest Subarray to be Removed to Make Array Sorted
+Check if Matrix Is X-Matrix
+Partition Equal Subset Sum
