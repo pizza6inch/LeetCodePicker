@@ -229,3 +229,5 @@ Maximum Enemy Forts That Can Be Captured
 Shortest Subarray to be Removed to Make Array Sorted
 Check if Matrix Is X-Matrix
 Partition Equal Subset Sum
+Find the Peaks
+Count Pairs of Connectable Servers in a Weighted Tree Network
