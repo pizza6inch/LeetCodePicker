@@ -231,3 +231,5 @@ Check if Matrix Is X-Matrix
 Partition Equal Subset Sum
 Find the Peaks
 Count Pairs of Connectable Servers in a Weighted Tree Network
+Balanced Binary Tree
+Frequency Tracker
