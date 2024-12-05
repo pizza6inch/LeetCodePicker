@@ -233,3 +233,5 @@ Find the Peaks
 Count Pairs of Connectable Servers in a Weighted Tree Network
 Balanced Binary Tree
 Frequency Tracker
+Find Target Indices After Sorting Array
+Next Permutation
