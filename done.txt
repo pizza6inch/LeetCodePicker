@@ -237,3 +237,5 @@ Find Target Indices After Sorting Array
 Next Permutation
 DI String Match
 Unique Length-3 Palindromic Subsequences
+Largest 3-Same-Digit Number in String
+Number of Ways to Select Buildings
