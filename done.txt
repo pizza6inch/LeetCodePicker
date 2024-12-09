@@ -241,3 +241,5 @@ Largest 3-Same-Digit Number in String
 Number of Ways to Select Buildings
 Student Attendance Record I
 Minimum Falling Path Sum
+Minimum Average of Smallest and Largest Elements
+Valid Parenthesis String
