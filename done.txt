@@ -243,3 +243,5 @@ Student Attendance Record I
 Minimum Falling Path Sum
 Minimum Average of Smallest and Largest Elements
 Valid Parenthesis String
+Counting Words With a Given Prefix
+Shortest Unsorted Continuous Subarray
