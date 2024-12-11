@@ -245,3 +245,5 @@ Minimum Average of Smallest and Largest Elements
 Valid Parenthesis String
 Counting Words With a Given Prefix
 Shortest Unsorted Continuous Subarray
+Count Negative Numbers in a Sorted Matrix
+Decode String
