@@ -249,3 +249,5 @@ Count Negative Numbers in a Sorted Matrix
 Decode String
 Thousand Separator
 01 Matrix
+Find Words Containing Character
+Decode the Slanted Ciphertext
