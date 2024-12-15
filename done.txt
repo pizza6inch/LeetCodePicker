@@ -253,3 +253,5 @@ Find Words Containing Character
 Decode the Slanted Ciphertext
 Merge Strings Alternately
 Maximum Area Rectangle With Point Constraints I
+Evaluate Boolean Binary Tree
+All Divisions With the Highest Score of a Binary Array
