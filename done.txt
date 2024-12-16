@@ -255,3 +255,5 @@ Merge Strings Alternately
 Maximum Area Rectangle With Point Constraints I
 Evaluate Boolean Binary Tree
 All Divisions With the Highest Score of a Binary Array
+Check If Two String Arrays are Equivalent
+Minimum Moves to Spread Stones Over Grid
