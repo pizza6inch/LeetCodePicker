@@ -257,3 +257,5 @@ Evaluate Boolean Binary Tree
 All Divisions With the Highest Score of a Binary Array
 Check If Two String Arrays are Equivalent
 Minimum Moves to Spread Stones Over Grid
+Minimum Subsequence in Non-Increasing Order
+Minimum Operations to Reduce an Integer to 0
