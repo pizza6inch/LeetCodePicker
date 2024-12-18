@@ -259,3 +259,5 @@ Check If Two String Arrays are Equivalent
 Minimum Moves to Spread Stones Over Grid
 Minimum Subsequence in Non-Increasing Order
 Minimum Operations to Reduce an Integer to 0
+Latest Time by Replacing Hidden Digits
+Cinema Seat Allocation
