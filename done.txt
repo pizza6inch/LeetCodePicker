@@ -261,3 +261,5 @@ Minimum Subsequence in Non-Increasing Order
 Minimum Operations to Reduce an Integer to 0
 Latest Time by Replacing Hidden Digits
 Cinema Seat Allocation
+Remove Outermost Parentheses
+Construct Binary Tree from Preorder and Postorder Traversal
