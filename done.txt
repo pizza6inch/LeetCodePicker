@@ -267,3 +267,5 @@ First Unique Character in a String
 Count of Substrings Containing Every Vowel and K Consonants I
 Find if Digit Game Can Be Won
 Minimum Array Changes to Make Differences Equal
+Minimum Cuts to Divide a Circle
+Find the Student that Will Replace the Chalk
