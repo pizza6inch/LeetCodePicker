@@ -269,3 +269,5 @@ Find if Digit Game Can Be Won
 Minimum Array Changes to Make Differences Equal
 Minimum Cuts to Divide a Circle
 Find the Student that Will Replace the Chalk
+Minimum Number of Operations to Convert Time
+Edit Distance
