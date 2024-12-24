@@ -271,3 +271,5 @@ Minimum Cuts to Divide a Circle
 Find the Student that Will Replace the Chalk
 Minimum Number of Operations to Convert Time
 Edit Distance
+Find N Unique Integers Sum up to Zero
+Apply Operations to Make String Empty
