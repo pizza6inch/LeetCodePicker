@@ -273,3 +273,5 @@ Minimum Number of Operations to Convert Time
 Edit Distance
 Find N Unique Integers Sum up to Zero
 Apply Operations to Make String Empty
+Count Subarrays of Length Three With a Condition
+Minimum Time to Revert Word to Initial State I
