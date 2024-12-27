@@ -277,3 +277,5 @@ Count Subarrays of Length Three With a Condition
 Minimum Time to Revert Word to Initial State I
 Divide an Array Into Subarrays With Minimum Cost I
 Minimum Operations to Halve Array Sum
+Duplicate Zeros
+Sentence Similarity III
