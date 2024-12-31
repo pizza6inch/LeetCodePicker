@@ -285,3 +285,5 @@ Unique Email Addresses
 Clone Graph
 Maximum Depth of Binary Tree
 Longest Word in Dictionary through Deleting
+Search Insert Position
+Minimum Operations to Make the Array Alternating
