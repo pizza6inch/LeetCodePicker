@@ -289,3 +289,5 @@ Search Insert Position
 Minimum Operations to Make the Array Alternating
 Longest Even Odd Subarray With Threshold
 Find Largest Value in Each Tree Row
+Determine if Two Events Have Conflict
+Number of Ways to Split a String
